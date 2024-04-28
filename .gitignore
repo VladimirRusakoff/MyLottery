@@ -1,5 +1,4 @@
 #
-client/components
 client/node_modules
 client/.next
 
@@ -7,4 +6,3 @@ client/.next
 eth/node_modules
 eth/cache
 eth/artifacts
-eth/ignition
